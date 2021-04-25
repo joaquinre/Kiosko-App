@@ -1,0 +1,57 @@
+[x] Create directort structure
+[x] Create a NPM project and install all dependencies
+    - Dependancies
+        - express
+        - ejs express-ejs-layouts
+    - Dev Dependancies
+        - nodemon
+[x] Create express server - Create a server.js file
+[x] git setup and first commit
+[x] install Laravel Mix
+    - setup js and scss
+[x] Install tailwind css
+[x] Create  Home page using Html and Css
+[X] Create Cart page
+    - order summary section
+    - empty cart section
+[x] Fetch all pizas from db and show on home page
+[x] Move routes to routes files
+[x] Create dedicated controllers
+[x] Add to cart functionality
+    [x] Fetch all pizzas from db and show on home page
+    [x] Create menu model and put dummy Data
+        [x] connect to mongo db
+        [x] use connect-mongo for session store
+            - dependencies
+                - mongoose, express-session, connect-mongo, dotenv
+    - axios to send ajax request
+    - install notification library npm i noty
+[x] Create login page with route
+[x] Create register page with route
+[x] Build register crud
+    - Dependancies express-flash express-session cookie-parse dotenv
+    - status code article 
+    - Database connection. Dependancies mongoose
+[x] Build login using passport
+    - install Dependancies passport passport-local express-session
+[x] Create order controller and link in in server.js
+[x] Craete Orders view with table for customer and admin
+[x] Place order functionality
+[x] Show all my orders on customer orders page
+[x] Show orders on admin orders page
+[x] Create Orders single page with status
+[x] Make order on carts page
+[x] Order tracker
+    - Dependancies moment
+    [x] Socket connection
+        - Dependancies socket.io
+[.] Build project for deployment
+[.] Deploy project on live server
+
+--- ToDo ---
+[.] Put items on /customer/orders
+    - Back button
+[.] Put number/instagram on register
+[.] Make search bar
+    - product filter
+[.] Make profile page

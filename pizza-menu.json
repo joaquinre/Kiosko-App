@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Combo fit 1",
+  "image": "pizza.png",
+  "price": "90",
+  "size": "baggio + cereal mix"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "Combo fit 2",
+  "image": "pizza.png",
+  "price": "60",
+  "size": "baggio + turron"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "Coca Cola",
+  "image": "pizza.png",
+  "price": "60",
+  "size": "comun"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "Cereal mix light",
+  "image": "pizza.png",
+  "price": "55",
+  "size": "frutilla"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "Turron",
+  "image": "pizza.png",
+  "price": "25",
+  "size": "misky"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "Chicles Topline",
+  "image": "pizza.png",
+  "price": "200",
+  "size": "menta"
+},{
+  "_id": {
+    "$oid": "5eee63eea27a66807cf2bea8"
+  },
+  "name": "Chupetines Evolution",
+  "image": "pizza.png",
+  "price": "20",
+  "size": "rojo, azul"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66907cf2bea9"
+  },
+  "name": "Caramelos",
+  "image": "pizza.png",
+  "price": "30",
+  "size": "Bolsa de gomitas"
+},{
+  "_id": {
+    "$oid": "5eee6717a22b66807cf2bea10"
+  },
+  "name": "Milka Oreo",
+  "image": "pizza.png",
+  "price": "80",
+  "size": "Alfajor milka"
+},{
+  "_id": {
+    "$oid": "5eee6727a24a66807cf2bea11"
+  },
+  "name": "Tatin",
+  "image": "pizza.png",
+  "price": "20",
+  "size": "Alfajor Tatin"
+},{
+  "_id": {
+    "$oid": "5eee6717a27a66817fc2bea12"
+  },
+  "name": "Terrabusi x3",
+  "image": "pizza.png",
+  "price": "70",
+  "size": "Alfajor Terrabussi x3"
+}]
